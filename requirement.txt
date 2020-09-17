@@ -1,0 +1,4 @@
+xlrd
+pandas
+tkinter
+openpyxl
